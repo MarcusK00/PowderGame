@@ -1,4 +1,4 @@
-# 🧪 Powder Game Clone – Element Simulation in Pygame
+# 🧪 Powder Game – Grid Based Element Simulation in Pygame
 
 A 2D sandbox simulation game inspired by Dan-Ball's Powder Game. Built with Python and Pygame, this project allows users to experiment with different elements that interact in unique, rule-based ways (e.g. oil goes on top of water, fire burns oil, water flows naturally, sand falls, etc.)
 
