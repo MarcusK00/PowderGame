@@ -22,7 +22,7 @@ This is a simple yet interactive physics simulation where users "paint" elements
 - Multiple elements (e.g., sand, water, fire, stone, oil, etc.)
 - Left-click to place elements, right-click to erase
 - Different behaviors and reactions for each material
-- Simple brush system
+- Brush system
 
 ---
 
@@ -35,7 +35,7 @@ This is a simple yet interactive physics simulation where users "paint" elements
 - **K / L** - Change Resolution
 - **ESC** – Reset simulation  
 
-> All logic is contained in a single Python script. It started as a simple sand falling simulator.
+> All logic is contained in a single Python script. It started as a sand falling simulator.
 
 ---
 
@@ -50,5 +50,5 @@ This is a simple yet interactive physics simulation where users "paint" elements
 pip install pygame
 ```
 
-3. **Run in your preffered editor**
+3. **Run in your preferred editor**
 
